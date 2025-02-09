@@ -1,0 +1,11 @@
+C:\Users\bulat-laptop\Downloads\TemplateEngine.HomeWork\TemplateEngine.HomeWork\bin\Debug\net8.0\TemplateEngine.HomeWork.deps.json
+C:\Users\bulat-laptop\Downloads\TemplateEngine.HomeWork\TemplateEngine.HomeWork\bin\Debug\net8.0\TemplateEngine.HomeWork.dll
+C:\Users\bulat-laptop\Downloads\TemplateEngine.HomeWork\TemplateEngine.HomeWork\bin\Debug\net8.0\TemplateEngine.HomeWork.pdb
+C:\Users\bulat-laptop\Downloads\TemplateEngine.HomeWork\TemplateEngine.HomeWork\obj\Debug\net8.0\TemplateEngine.HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bulat-laptop\Downloads\TemplateEngine.HomeWork\TemplateEngine.HomeWork\obj\Debug\net8.0\TemplateEngine.HomeWork.AssemblyInfoInputs.cache
+C:\Users\bulat-laptop\Downloads\TemplateEngine.HomeWork\TemplateEngine.HomeWork\obj\Debug\net8.0\TemplateEngine.HomeWork.AssemblyInfo.cs
+C:\Users\bulat-laptop\Downloads\TemplateEngine.HomeWork\TemplateEngine.HomeWork\obj\Debug\net8.0\TemplateEngine.HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\bulat-laptop\Downloads\TemplateEngine.HomeWork\TemplateEngine.HomeWork\obj\Debug\net8.0\TemplateEngine.HomeWork.dll
+C:\Users\bulat-laptop\Downloads\TemplateEngine.HomeWork\TemplateEngine.HomeWork\obj\Debug\net8.0\refint\TemplateEngine.HomeWork.dll
+C:\Users\bulat-laptop\Downloads\TemplateEngine.HomeWork\TemplateEngine.HomeWork\obj\Debug\net8.0\TemplateEngine.HomeWork.pdb
+C:\Users\bulat-laptop\Downloads\TemplateEngine.HomeWork\TemplateEngine.HomeWork\obj\Debug\net8.0\ref\TemplateEngine.HomeWork.dll

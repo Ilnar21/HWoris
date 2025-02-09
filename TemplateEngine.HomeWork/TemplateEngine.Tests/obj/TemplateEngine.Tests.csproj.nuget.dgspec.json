@@ -1,0 +1,182 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\valiu\\OneDrive\\Рабочий стол\\orisHW\\TemplateEngine.HomeWork\\TemplateEngine.Tests\\TemplateEngine.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\valiu\\OneDrive\\Рабочий стол\\orisHW\\TemplateEngine.HomeWork\\TemplateEngine.HomeWork\\TemplateEngine.HomeWork.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\valiu\\OneDrive\\Рабочий стол\\orisHW\\TemplateEngine.HomeWork\\TemplateEngine.HomeWork\\TemplateEngine.HomeWork.csproj",
+        "projectName": "TemplateEngine.HomeWork",
+        "projectPath": "C:\\Users\\valiu\\OneDrive\\Рабочий стол\\orisHW\\TemplateEngine.HomeWork\\TemplateEngine.HomeWork\\TemplateEngine.HomeWork.csproj",
+        "packagesPath": "C:\\Users\\valiu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\valiu\\OneDrive\\Рабочий стол\\orisHW\\TemplateEngine.HomeWork\\TemplateEngine.HomeWork\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\valiu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\valiu\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\valiu\\OneDrive\\Рабочий стол\\orisHW\\TemplateEngine.HomeWork\\TemplateEngine.Tests\\TemplateEngine.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\valiu\\OneDrive\\Рабочий стол\\orisHW\\TemplateEngine.HomeWork\\TemplateEngine.Tests\\TemplateEngine.Tests.csproj",
+        "projectName": "TemplateEngine.Tests",
+        "projectPath": "C:\\Users\\valiu\\OneDrive\\Рабочий стол\\orisHW\\TemplateEngine.HomeWork\\TemplateEngine.Tests\\TemplateEngine.Tests.csproj",
+        "packagesPath": "C:\\Users\\valiu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\valiu\\OneDrive\\Рабочий стол\\orisHW\\TemplateEngine.HomeWork\\TemplateEngine.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\valiu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\valiu\\OneDrive\\Рабочий стол\\orisHW\\TemplateEngine.HomeWork\\TemplateEngine.HomeWork\\TemplateEngine.HomeWork.csproj": {
+                "projectPath": "C:\\Users\\valiu\\OneDrive\\Рабочий стол\\orisHW\\TemplateEngine.HomeWork\\TemplateEngine.HomeWork\\TemplateEngine.HomeWork.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\valiu\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
