@@ -1,0 +1,17 @@
+C:\Users\valiu\HomeWorks_ORIS\dz-9\WinFormsApp2\bin\Debug\net8.0-windows\GameAndDot.Chat.exe
+C:\Users\valiu\HomeWorks_ORIS\dz-9\WinFormsApp2\bin\Debug\net8.0-windows\GameAndDot.Chat.deps.json
+C:\Users\valiu\HomeWorks_ORIS\dz-9\WinFormsApp2\bin\Debug\net8.0-windows\GameAndDot.Chat.runtimeconfig.json
+C:\Users\valiu\HomeWorks_ORIS\dz-9\WinFormsApp2\bin\Debug\net8.0-windows\GameAndDot.Chat.dll
+C:\Users\valiu\HomeWorks_ORIS\dz-9\WinFormsApp2\bin\Debug\net8.0-windows\GameAndDot.Chat.pdb
+C:\Users\valiu\HomeWorks_ORIS\dz-9\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+C:\Users\valiu\HomeWorks_ORIS\dz-9\WinFormsApp2\obj\Debug\net8.0-windows\GameAndDot.Chat.csproj.GenerateResource.cache
+C:\Users\valiu\HomeWorks_ORIS\dz-9\WinFormsApp2\obj\Debug\net8.0-windows\GameAndDot.Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valiu\HomeWorks_ORIS\dz-9\WinFormsApp2\obj\Debug\net8.0-windows\GameAndDot.Chat.AssemblyInfoInputs.cache
+C:\Users\valiu\HomeWorks_ORIS\dz-9\WinFormsApp2\obj\Debug\net8.0-windows\GameAndDot.Chat.AssemblyInfo.cs
+C:\Users\valiu\HomeWorks_ORIS\dz-9\WinFormsApp2\obj\Debug\net8.0-windows\GameAndDot.Chat.csproj.CoreCompileInputs.cache
+C:\Users\valiu\HomeWorks_ORIS\dz-9\WinFormsApp2\obj\Debug\net8.0-windows\GameAndDot.Chat.sourcelink.json
+C:\Users\valiu\HomeWorks_ORIS\dz-9\WinFormsApp2\obj\Debug\net8.0-windows\GameAndDot.Chat.dll
+C:\Users\valiu\HomeWorks_ORIS\dz-9\WinFormsApp2\obj\Debug\net8.0-windows\refint\GameAndDot.Chat.dll
+C:\Users\valiu\HomeWorks_ORIS\dz-9\WinFormsApp2\obj\Debug\net8.0-windows\GameAndDot.Chat.pdb
+C:\Users\valiu\HomeWorks_ORIS\dz-9\WinFormsApp2\obj\Debug\net8.0-windows\GameAndDot.Chat.genruntimeconfig.cache
+C:\Users\valiu\HomeWorks_ORIS\dz-9\WinFormsApp2\obj\Debug\net8.0-windows\ref\GameAndDot.Chat.dll

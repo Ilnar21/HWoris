@@ -1,0 +1,44 @@
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.exe
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.deps.json
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.runtimeconfig.json
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.dll
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.pdb
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.AssemblyInfoInputs.cache
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.AssemblyInfo.cs
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.csproj.CoreCompileInputs.cache
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.dll
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Server\obj\Debug\net8.0\refint\GameAndDot.Server.dll
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.pdb
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.genruntimeconfig.cache
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Server\obj\Debug\net8.0\ref\GameAndDot.Server.dll
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\WinFormsApp2\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.exe
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\WinFormsApp2\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.deps.json
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\WinFormsApp2\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.runtimeconfig.json
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\WinFormsApp2\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.dll
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\WinFormsApp2\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.pdb
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\WinFormsApp2\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\WinFormsApp2\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\WinFormsApp2\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\WinFormsApp2\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\WinFormsApp2\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.sourcelink.json
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\WinFormsApp2\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.dll
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\WinFormsApp2\GameAndDot.Server\obj\Debug\net8.0\refint\GameAndDot.Server.dll
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\WinFormsApp2\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.pdb
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\WinFormsApp2\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.genruntimeconfig.cache
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\WinFormsApp2\GameAndDot.Server\obj\Debug\net8.0\ref\GameAndDot.Server.dll
+C:\Users\valiu\HomeWorks_ORIS\dz-9\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.exe
+C:\Users\valiu\HomeWorks_ORIS\dz-9\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.deps.json
+C:\Users\valiu\HomeWorks_ORIS\dz-9\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.runtimeconfig.json
+C:\Users\valiu\HomeWorks_ORIS\dz-9\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.dll
+C:\Users\valiu\HomeWorks_ORIS\dz-9\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.pdb
+C:\Users\valiu\HomeWorks_ORIS\dz-9\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valiu\HomeWorks_ORIS\dz-9\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.AssemblyInfoInputs.cache
+C:\Users\valiu\HomeWorks_ORIS\dz-9\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.AssemblyInfo.cs
+C:\Users\valiu\HomeWorks_ORIS\dz-9\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.csproj.CoreCompileInputs.cache
+C:\Users\valiu\HomeWorks_ORIS\dz-9\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.sourcelink.json
+C:\Users\valiu\HomeWorks_ORIS\dz-9\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.dll
+C:\Users\valiu\HomeWorks_ORIS\dz-9\GameAndDot.Server\obj\Debug\net8.0\refint\GameAndDot.Server.dll
+C:\Users\valiu\HomeWorks_ORIS\dz-9\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.pdb
+C:\Users\valiu\HomeWorks_ORIS\dz-9\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.genruntimeconfig.cache
+C:\Users\valiu\HomeWorks_ORIS\dz-9\GameAndDot.Server\obj\Debug\net8.0\ref\GameAndDot.Server.dll

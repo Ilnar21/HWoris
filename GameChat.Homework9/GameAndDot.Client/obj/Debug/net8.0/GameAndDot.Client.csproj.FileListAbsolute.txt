@@ -1,0 +1,14 @@
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Client\bin\Debug\net8.0\GameAndDot.Client.exe
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Client\bin\Debug\net8.0\GameAndDot.Client.deps.json
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Client\bin\Debug\net8.0\GameAndDot.Client.runtimeconfig.json
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Client\bin\Debug\net8.0\GameAndDot.Client.dll
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Client\bin\Debug\net8.0\GameAndDot.Client.pdb
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Client\obj\Debug\net8.0\GameAndDot.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Client\obj\Debug\net8.0\GameAndDot.Client.AssemblyInfoInputs.cache
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Client\obj\Debug\net8.0\GameAndDot.Client.AssemblyInfo.cs
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Client\obj\Debug\net8.0\GameAndDot.Client.csproj.CoreCompileInputs.cache
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Client\obj\Debug\net8.0\GameAndDot.Client.dll
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Client\obj\Debug\net8.0\refint\GameAndDot.Client.dll
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Client\obj\Debug\net8.0\GameAndDot.Client.pdb
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Client\obj\Debug\net8.0\GameAndDot.Client.genruntimeconfig.cache
+C:\Users\timer\source\repos\WinFormsApp2\GameAndDot.Client\obj\Debug\net8.0\ref\GameAndDot.Client.dll
