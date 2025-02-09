@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "M7A1wEZH+jE=",
+  "success": true,
+  "projectFilePath": "D:\\Загрузки\\MyHTTPServerHWoris\\MyHTTPServerHW\\HttpServerLibrary\\HttpServerLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valiu\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\valiu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\valiu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
