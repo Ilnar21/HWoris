@@ -1,0 +1,47 @@
+C:\Users\timer\source\repos\GameAndDot\GameAndDot.Packages\bin\Debug\net8.0\GameAndDot.Packages.deps.json
+C:\Users\timer\source\repos\GameAndDot\GameAndDot.Packages\bin\Debug\net8.0\GameAndDot.Packages.dll
+C:\Users\timer\source\repos\GameAndDot\GameAndDot.Packages\bin\Debug\net8.0\GameAndDot.Packages.pdb
+C:\Users\timer\source\repos\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timer\source\repos\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.AssemblyInfoInputs.cache
+C:\Users\timer\source\repos\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.AssemblyInfo.cs
+C:\Users\timer\source\repos\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.csproj.CoreCompileInputs.cache
+C:\Users\timer\source\repos\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.dll
+C:\Users\timer\source\repos\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\refint\GameAndDot.Packages.dll
+C:\Users\timer\source\repos\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.pdb
+C:\Users\timer\source\repos\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\ref\GameAndDot.Packages.dll
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\bin\Debug\net8.0\GameAndDot.Packages.deps.json
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\bin\Debug\net8.0\GameAndDot.Packages.dll
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\bin\Debug\net8.0\GameAndDot.Packages.pdb
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.sourcelink.json
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.dll
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\refint\GameAndDot.Packages.dll
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.pdb
+C:\Users\User\Desktop\Новая папка\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\ref\GameAndDot.Packages.dll
+C:\Users\valiu\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\bin\Debug\net8.0\GameAndDot.Packages.deps.json
+C:\Users\valiu\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\bin\Debug\net8.0\GameAndDot.Packages.dll
+C:\Users\valiu\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\bin\Debug\net8.0\GameAndDot.Packages.pdb
+C:\Users\valiu\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valiu\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.AssemblyInfoInputs.cache
+C:\Users\valiu\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.AssemblyInfo.cs
+C:\Users\valiu\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.csproj.CoreCompileInputs.cache
+C:\Users\valiu\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.sourcelink.json
+C:\Users\valiu\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.dll
+C:\Users\valiu\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\refint\GameAndDot.Packages.dll
+C:\Users\valiu\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.pdb
+C:\Users\valiu\HomeWorks_ORIS\dz-10\GameAndDot\GameAndDot.Packages\obj\Debug\net8.0\ref\GameAndDot.Packages.dll
+C:\Users\valiu\HomeWorkORIS\GameAndDot.HomeWork10\GameAndDot.Packages\bin\Debug\net8.0\GameAndDot.Packages.deps.json
+C:\Users\valiu\HomeWorkORIS\GameAndDot.HomeWork10\GameAndDot.Packages\bin\Debug\net8.0\GameAndDot.Packages.dll
+C:\Users\valiu\HomeWorkORIS\GameAndDot.HomeWork10\GameAndDot.Packages\bin\Debug\net8.0\GameAndDot.Packages.pdb
+C:\Users\valiu\HomeWorkORIS\GameAndDot.HomeWork10\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valiu\HomeWorkORIS\GameAndDot.HomeWork10\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.AssemblyInfoInputs.cache
+C:\Users\valiu\HomeWorkORIS\GameAndDot.HomeWork10\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.AssemblyInfo.cs
+C:\Users\valiu\HomeWorkORIS\GameAndDot.HomeWork10\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.csproj.CoreCompileInputs.cache
+C:\Users\valiu\HomeWorkORIS\GameAndDot.HomeWork10\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.sourcelink.json
+C:\Users\valiu\HomeWorkORIS\GameAndDot.HomeWork10\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.dll
+C:\Users\valiu\HomeWorkORIS\GameAndDot.HomeWork10\GameAndDot.Packages\obj\Debug\net8.0\refint\GameAndDot.Packages.dll
+C:\Users\valiu\HomeWorkORIS\GameAndDot.HomeWork10\GameAndDot.Packages\obj\Debug\net8.0\GameAndDot.Packages.pdb
+C:\Users\valiu\HomeWorkORIS\GameAndDot.HomeWork10\GameAndDot.Packages\obj\Debug\net8.0\ref\GameAndDot.Packages.dll

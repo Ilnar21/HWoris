@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GameAndDot.Server/1.0.0": {
+        "dependencies": {
+          "GameAndDot.Packages": "1.0.0"
+        },
+        "runtime": {
+          "GameAndDot.Server.dll": {}
+        }
+      },
+      "GameAndDot.Packages/1.0.0": {
+        "runtime": {
+          "GameAndDot.Packages.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameAndDot.Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameAndDot.Packages/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
